@@ -1,7 +1,6 @@
 import React from 'react'
 
-function Home() {
-  return (
+const Home = () => {  return (
     <div>
       <h1>
         Hi my babyy gurlll
@@ -13,4 +12,4 @@ function Home() {
   );
 };
 
-export default Home
+export default Home;
